@@ -8,3 +8,5 @@
 - 2/13/2023
 - Uploaded Homework4 part 1.
 - Uploaded Homework4 part 2.
+- 3/06/2023
+- Upload Homework 6
