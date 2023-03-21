@@ -9,9 +9,7 @@ class Program
         Alice.PrintCusInfo();
         Customer Bob = new Customer(cus_id:111, cus_age:30, cus_name:"Bob");
         Bob.PrintCusInfo();
-         
-  //    ChangeId alice = new ChangeId(220, "Alice", 28);
-  //      ChangeId bob = new ChangeId(221, "Bob", 30); 
+        
         ChangeId alice1 = new ChangeId(new_id:220, cus_age:28, cus_name:"Alice");
         alice1.PrintNewInfo();
         ChangeId bob1 = new ChangeId(new_id:221, cus_age:30, cus_name:"Bob");
@@ -21,9 +19,6 @@ class Program
        CustAge bob = new CustAge(30, "Bob");
        alice.CompareAge(bob);
     
-        
-      
-   
     } 
 
 }
